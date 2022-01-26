@@ -1,2 +1,2 @@
-# A3_c251
+# Flow Networks
 Repository for implementations of the Ford-Fulkerson algorithm for maximum flow in a flow network graph defined by WGraph.java and the Bellman-Ford algorithm for shortest path in a directed, weighted graph. Note: Bellman-Ford can detect negative weight cycles. bf1.txt is an example of a graph input text file for BellmanFord.java and ff2.txt is a graph input text file for FordFulkerson.java.
